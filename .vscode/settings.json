@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.windows": {
+    "GOOGLE_APPLICATION_CREDENTIALS": "D:\\pogram\\golang\\go-learning-f0aef-firebase-adminsdk-aqm5p-611e07f7ca.json",
+    },
+    "go.gopath": "C:\\Users\\Влад\\go"
+}
